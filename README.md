@@ -10,8 +10,6 @@ This project aims to classify text messages as spam or not spam using various ma
 - [Models](#models)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Conclusion](#conclusion)
 
 ## Dataset
 The dataset used in this project is the SMS Spam Collection Dataset, which is a set of SMS messages labeled as either spam or ham (not spam).
